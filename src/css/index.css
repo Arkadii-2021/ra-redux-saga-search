@@ -1,0 +1,16 @@
+body {
+  font-family: sans-serif;
+  margin-left: 25px;
+}
+
+input {
+  outline: none;
+  border: 1px solid black;
+  width: 256px;
+  margin-bottom: 8px;
+  font-size: 18px;
+}
+
+ul {
+  font-size: 18px;
+}
